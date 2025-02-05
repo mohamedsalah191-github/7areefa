@@ -930,7 +930,7 @@ h1, h2, h3, h4, h5,
     border: none; }
 
 .footer-section {
-  padding: 70px 0;
+  padding: 30px 0;
   font-size: 14px;
   color: rgba(255, 255, 255, 0.5);
   background: #1a1e25; }
@@ -1120,7 +1120,7 @@ h1, h2, h3, h4, h5,
   transform: translateY(-50%); }
 
 .post-meta {
-  font-size: 13px;
+  font-size: 10px;
   text-transform: uppercase;
   letter-spacing: .2em; }
   .post-meta a {
@@ -1134,8 +1134,8 @@ h1, h2, h3, h4, h5,
   }    
   .social-icon {
     border-radius: 30px; /* شكل ما بين الدائري والمربع */
-    width: 90px; /* عرض أكبر قليلًا */
-    height: 90px; /* ارتفاع أكبر قليلًا */
+    width: 5rem; /* عرض أكبر قليلًا */
+    height: 5rem; /* ارتفاع أكبر قليلًا */
     margin: 10px; /* مسافات بين الأيقونات */
     color: #da1414;
 }
